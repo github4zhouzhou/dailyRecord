@@ -1,10 +1,11 @@
-**Table of Contents**
-
-* [dailyRecord](#dailyRecord)
-  * [php](#php)
-
 # dailyRecord
 记录一些有用的网址和常用信息
+
+**Table of Contents**
+
+ * [php](#php)
+
+
 
 ## php
 php office <br>
